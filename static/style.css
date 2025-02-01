@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 12px;
+}
+
+textarea {
+    font-size: 16px;
+    resize: none;
+    background: #f8f9fa;
+}
